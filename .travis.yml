@@ -6,7 +6,6 @@ cache:
     "node_modules"
 
 before_script:
-  - npm install
   - npm run build:all
 
 after_success:
