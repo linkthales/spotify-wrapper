@@ -1,5 +1,5 @@
 import chai, { assert } from 'chai';
-import { search, searchAlbums, searchArtists, searchTracks, searchPlaylists } from './search';
+import { search, searchAlbums, searchArtists, searchTracks, searchPlaylists } from '../lib/search';
 import sinon from 'sinon';
 import sinonChai from 'sinon-chai';
 chai.use(sinonChai);

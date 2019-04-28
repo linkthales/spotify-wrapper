@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/linkthales/spotify-wrapper.svg?branch=master)](https://travis-ci.org/linkthales/spotify-wrapper)
 
+[![Coverage Status](https://coveralls.io/repos/github/linkthales/spotify-wrapper/badge.svg?branch=master)](https://coveralls.io/github/linkthales/spotify-wrapper?branch=master)
+
 A wrapper to work with the [Spotify Web API] (https://developer.spotify.com/documentation/web-api/)
 
 ## Getting Started
